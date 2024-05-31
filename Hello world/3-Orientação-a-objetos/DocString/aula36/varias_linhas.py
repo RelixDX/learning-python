@@ -1,0 +1,11 @@
+"""O que seu módulo faz
+
+ara arara ara ara aafafafggsddasdadasdasdad
+fafafdfaajfdhflahsfoihgdafajhafoshggsghsdgsdg
+fjafhjadfhadhfafhaouhaogahogahdoiajdijwiadajsfa
+asfauhfoahfwuoahfoashkfhaowihafhskfhafokwafafsfa
+hfodshfgoe8ghwgfhohf8adfheohofho8dyfgoihewo8gwy g8w
+fhahe8wfhwhef o dhf8hwoe hwofjw90fw0ehfw89fh0 0we0f9wjf09
+sjfdjfwfjwfjw0gjwg0inw0ijq-qjfjqjfqffjqjfqfqkfodfkdgjgegei
+
+"""
