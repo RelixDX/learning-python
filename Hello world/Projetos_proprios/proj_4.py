@@ -1,7 +1,15 @@
 # Descobrir sua idade
-import datetime
+from datetime import datetime
+from dateutil.relativedelta import relativedelta
 
-ano_nascimento = input('Digite o ano que você nasceu: ')
-mes_nascimento = input('Digite o mês do seu aniversário: ')
-mes_nascimento = datetime.datetime.month
-ano_nascimento = datetime.datetime.year
+fmt = '%d/%m/%Y'
+
+aniversario = str(input('Digite seu aniversaio: '))
+hoje = datetime.today().date().__format__(fmt)
+
+nascimento = datetime.strptime(aniversario, fmt)
+ano_atual = datetime.strptime(hoje, fmt)
+
+idade = relativedelta(ano_atual, nascimento)
+
+print(f'Sua idade é de {idade.years} anos')
